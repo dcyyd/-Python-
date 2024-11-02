@@ -1,0 +1,5 @@
+Pillow
+pypiwin32
+pyinstaller
+nuitka
+pystray
