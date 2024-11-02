@@ -75,7 +75,7 @@ ftp-server-based-on-python-master/
 
 #### **（二）项目效果图：**
 
-![](https://github.com/dcyyd/ftp-server-based-on-python-master/blob/main/preview.png)
+<img src="https://img.picui.cn/free/2024/11/02/672621f3d6f33.png" alt="preview.png" title="preview.png" />
 
 ### 七、贡献指南
 
